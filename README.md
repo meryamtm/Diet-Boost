@@ -1,1 +1,1 @@
-# Diet-Boost
+# Healthy scanner
